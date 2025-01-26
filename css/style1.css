@@ -80,7 +80,7 @@ body {
     }
   
     .section .text {
-      line-height: 1.6;
+      line-height: 1.6; 
     }
   
   main p {
@@ -90,6 +90,20 @@ body {
       margin-bottom: 20px;
   }
   
+  .external-resources{
+      flex: 1;
+      max-width: 250px;
+      margin-right: 20px;
+      background-color: #e2defa;
+  }
+  .external-resources ul{
+      list-style: none;
+      padding: auto;
+      margin: 0;
+  }
+  .external-resources ul li a:hover {
+    color: #3108e9; 
+  }
   footer  {
       background-color: #9b98a6;
       color: #fff;
