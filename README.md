@@ -24,3 +24,4 @@ The website showcases my portfolio, qualifications, and contributions.
 1. Clone the repository.
 2. Open `index.html` in a browser.
 3. Explore the navigation and features.
+# project1-907-faqiang_mei
